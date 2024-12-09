@@ -1,10 +1,9 @@
-Currently part of a Javabackend team!
-Working in a SCRUM framework enviroment!
+Backend specialist for a Cybersecurity company.
 
-Technologies I am currently working with and learning about:
+Currently implementing concurrent and asynchronous back solutions most using:
 
-Java 8,
-Java EE 8,
+Java 21,
+Apache Kafka
+Kubernetes,
 Docker,
-Quarkus,
-AWS
+Quarkus
